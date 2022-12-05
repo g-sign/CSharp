@@ -1,0 +1,15 @@
+D:\Projects\Data Structures\Array\ArrayClass\obj\Debug\net6.0\ArrayClass.csproj.AssemblyReference.cache
+D:\Projects\Data Structures\Array\ArrayClass\obj\Debug\net6.0\ArrayClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Data Structures\Array\ArrayClass\obj\Debug\net6.0\ArrayClass.AssemblyInfoInputs.cache
+D:\Projects\Data Structures\Array\ArrayClass\obj\Debug\net6.0\ArrayClass.AssemblyInfo.cs
+D:\Projects\Data Structures\Array\ArrayClass\obj\Debug\net6.0\ArrayClass.csproj.CoreCompileInputs.cache
+D:\Projects\Data Structures\Array\ArrayClass\bin\Debug\net6.0\ArrayClass.exe
+D:\Projects\Data Structures\Array\ArrayClass\bin\Debug\net6.0\ArrayClass.deps.json
+D:\Projects\Data Structures\Array\ArrayClass\bin\Debug\net6.0\ArrayClass.runtimeconfig.json
+D:\Projects\Data Structures\Array\ArrayClass\bin\Debug\net6.0\ArrayClass.dll
+D:\Projects\Data Structures\Array\ArrayClass\bin\Debug\net6.0\ref\ArrayClass.dll
+D:\Projects\Data Structures\Array\ArrayClass\bin\Debug\net6.0\ArrayClass.pdb
+D:\Projects\Data Structures\Array\ArrayClass\obj\Debug\net6.0\ArrayClass.dll
+D:\Projects\Data Structures\Array\ArrayClass\obj\Debug\net6.0\ref\ArrayClass.dll
+D:\Projects\Data Structures\Array\ArrayClass\obj\Debug\net6.0\ArrayClass.pdb
+D:\Projects\Data Structures\Array\ArrayClass\obj\Debug\net6.0\ArrayClass.genruntimeconfig.cache
